@@ -1,0 +1,104 @@
+/*Add a background color*/
+.TopBar {
+	
+	font: arial;
+	color: #FFA500;
+	background-color: #FFBF00;
+	float:left;
+	
+	
+	
+}
+
+/* Change the links inside the navigation bar */
+.TopBar a {
+	float: left;
+	padding: 14px 16px;
+	text-align: center;
+}
+
+/* Change the color of the links on hover */
+.TopBar a:hover {
+background-color: #006400;
+color: #8B4513;
+
+}
+
+
+.MainTitle {
+	font: arial;
+	font-size: 70;
+	color: #000000;
+	background-color: #8B4513;
+	float:center;
+	margin-top: 40px;
+}
+
+.Content {
+	height: 750px;
+	width: 1887px;
+	font: arial;
+	color: #000000;
+	background-color: #8B0000;
+	
+}
+
+.ContentHome {
+height: 750px;
+width: 1887px;
+font: arial;
+color: #000000;
+background-color: #228B22;
+
+}
+
+
+/* Right top picture */
+.image1HomePageTab{
+	position:absolute;
+	right:13%;
+	top:20%;
+	font: arial;
+	color: #000000;
+	background-color: #9BCDA3;
+	
+}
+
+/* Right bottom picture */
+.image2HomePageTab{
+	position:absolute;
+	right:13%;
+	top:90%;
+	font: arial;
+	color: #000000;
+	background-color: #9BCDA3;
+	
+}
+
+/* Left bottom image */
+.image3HomePageTab{
+	position:absolute;
+	right:57%;
+	top:90%;
+	font: arial;
+	color: #000000;
+	background-color: #9BCDA3;
+	
+}
+
+/* Left top image */
+.image4HomePageTab{
+	position:absolute;
+	right:57%;
+	top:20%;
+	font: arial;
+	color: #000000;
+	background-color: #9BCDA3;
+	
+}
+
+
+
+
+
+
