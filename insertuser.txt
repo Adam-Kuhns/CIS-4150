@@ -1,0 +1,1 @@
+INSERT INTO `USERS`(`Uname`, `Passwd`, `Uid`, `Ismember`) VALUES (bob,passwrd,1)
